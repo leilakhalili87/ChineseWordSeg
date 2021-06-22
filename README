@@ -1,0 +1,15 @@
+Chinese Word Segmentation
+=========================
+Author: Leila Khalili
+
+# Files/Folders
+    1. ./data/: input data 
+    2. util_funcs.py: all the necessary functions to run the code
+    3. ChineseWordSeg.ipynb: a breif tutorial on how this code works.
+
+
+# Running the code
+    1. Please follow the jupyter notebook "ChineseWordSeg.ipynb" for 
+    running the code and some explanations on the method used
+
+
